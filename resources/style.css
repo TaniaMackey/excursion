@@ -2,19 +2,31 @@ h1 {
   font-size: 50px;
   font-weight: normal;
   color: white;
-  text-align: center;
 }
 h4 {
   font-size: 16px;
-  text-align: center;
-  font-weight: normal;
 }
 * {
   font-family: Verdana;
+  color: white;
+  text-align: center;
 }
 body{
   background-color: black;
 }
 a{
   color: aquamarine;
+  font-weight: normal;
+}
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+h3 {
+  font-size: 21px;
+  color: gray;
+  font-weight: normal
+}
+h3.icon{
+  text-align: right;
 }
